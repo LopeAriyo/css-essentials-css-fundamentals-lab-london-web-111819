@@ -9,8 +9,9 @@ header{
 }
 
 a {
-
+  text-align: center;
   background-color: grey;
+  padding-left: 10px;
 
 }
 
