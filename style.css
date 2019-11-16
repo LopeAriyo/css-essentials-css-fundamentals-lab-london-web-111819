@@ -15,17 +15,20 @@ header{
   padding-right: 10px;
 }
 
+#featured-property{
+
+  text-align: center;
+}
+
+#fp_text {
+  width: 800px;
+}
+
 figcaption {
 
 }
 
-#featured-property{
 
-  text-align: center;
-
-
-
-}
 
 #details {
 
