@@ -8,11 +8,11 @@ header{
   text-align: center;
 }
 
-#nav-links {
+a {
   text-align: center;
+  background-color: grey;
+  padding-left: 10px;
 }
-
-
 
 figcaption {
 
