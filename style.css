@@ -22,6 +22,7 @@ header{
 
 #fp_text {
   width: 800px;
+  align-content: center;
 }
 
 figcaption {
