@@ -29,10 +29,11 @@ figcaption{
 }
 
 #details {
-  background-color: red;
+  
   display: block;
 }
 div {
+  background-color: red;
   float: left;
 }
 
