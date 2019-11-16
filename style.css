@@ -31,7 +31,9 @@ figcaption{
 #details {
   background-color: red;
   display: block;
-
+}
+div {
+  float: left;
 }
 
 .center {
